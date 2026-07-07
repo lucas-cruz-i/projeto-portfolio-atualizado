@@ -379,6 +379,7 @@ a:active {
 .js i { color: #f0db4f; }
 .react i { color: #61dafb; }
 .node i { color: #68a063; }
+.type i { color: #0088e2; }
 
 .card span {
     display: block;
