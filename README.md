@@ -10,19 +10,19 @@ Cada imagem representa um projeto independente, com descrição e linguagens uti
 
 Exemplos de projetos incluídos:
 
-🔹 Landing pages responsivas
-🔹 Aplicações utilizando HTML, CSS e JavaScript
-🔹 Aplicações estilizadas com TailwindCss
-🔹 Aplicações desenvolvidas com React
-🔹 Projetos utilizando TypeScript
-🔹 Aplicações com Next.js
-🔹 Projetos com consumo de APIs externas
-🔹 Aplicações com autenticação de usuários
-🔹 Projetos com integração de pagamentos utilizando Stripe
-🔹 Aplicações com banco de dados
-🔹 Projetos utilizando Prisma ORM
-🔹 Dashboards e interfaces dinâmicas
-🔹 Exercícios e projetos de lógica de programação
+-🔹 Landing pages responsivas
+-🔹 Aplicações utilizando HTML, CSS e JavaScript
+-🔹 Aplicações estilizadas com TailwindCss
+-🔹 Aplicações desenvolvidas com React
+-🔹 Projetos utilizando TypeScript
+-🔹 Aplicações com Next.js
+-🔹 Projetos com consumo de APIs externas
+-🔹 Aplicações com autenticação de usuários
+-🔹 Projetos com integração de pagamentos utilizando Stripe
+-🔹 Aplicações com banco de dados
+-🔹 Projetos utilizando Prisma ORM
+-🔹 Dashboards e interfaces dinâmicas
+-🔹 Exercícios e projetos de lógica de programação
 
 ---
 
