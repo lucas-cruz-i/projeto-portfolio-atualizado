@@ -6,16 +6,23 @@ Este repositório reúne **todos os projetos** que desenvolvi ao longo do tempo,
 
 ## 📁 Estrutura do Repositório
 
-Cada imagem representa um projeto independente, com descrição e linguagens utilizadas, além de pussuir o link para o código-fonte.
+Cada imagem representa um projeto independente, com descrição e linguagens utilizadas, além de possuir o link de deploy.
 
 Exemplos de projetos incluídos:
 
-- 🔹 Landing pages responsivas
-- 🔹 Aplicações com JavaScript puro
-- 🔹 Projetos com React
-- 🔹 Consumo de APIs externas
-- 🔹 Exercícios de lógica de programação
-- 🔹 Projetos com conceitos de HTML e CSS
+🔹 Landing pages responsivas
+🔹 Aplicações utilizando HTML, CSS e JavaScript
+🔹 Aplicações estilizadas com TailwindCss
+🔹 Aplicações desenvolvidas com React
+🔹 Projetos utilizando TypeScript
+🔹 Aplicações com Next.js
+🔹 Projetos com consumo de APIs externas
+🔹 Aplicações com autenticação de usuários
+🔹 Projetos com integração de pagamentos utilizando Stripe
+🔹 Aplicações com banco de dados
+🔹 Projetos utilizando Prisma ORM
+🔹 Dashboards e interfaces dinâmicas
+🔹 Exercícios e projetos de lógica de programação
 
 ---
 
@@ -25,8 +32,18 @@ Ao longo dos projetos, utilizei tecnologias como:
 
 - HTML5 / CSS3
 - JavaScript (ES6+)
-- ReactJS
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- CSS Modules
+- Node.js
+- Prisma ORM
+- PostgreSQL
 - Git e GitHub
+- APIs REST
+- Stripe
+- Vercel
 
 ---
 
