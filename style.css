@@ -184,6 +184,10 @@ a:active {
     display: block;
 }
 
+.azul {
+    color: #4d7cfe;;
+}
+
 .projetos-card:hover {
     box-shadow: 0 10px 20px rgba(79, 70, 229, 0.2);
     transform: translateY(-10px) scale(1.03);
@@ -221,6 +225,8 @@ a:active {
 
 .info-projetos {
     margin-bottom: 13px;
+    color: #4d7cfe;
+    opacity: 0.9;
 }
 
 .paragrafo-projetos {
@@ -231,12 +237,28 @@ a:active {
 .ver-projetos {
     color: #4d7cfe;
     font-weight: 500;
-    margin-top: 20px;
+    text-decoration: none;
+    white-space: nowrap;
+    display: inline-block; 
+}
+
+.ver-projetos:hover {
+    color: #00d2ff !important;
+    text-decoration: underline !important;
 }
 
 .projetos-card:hover .ver-projetos {
-    text-decoration: underline;
     color: #4d7cfe;
+    opacity: 0.9;
+}
+
+.projetos-card:hover .info-projetos {
+    color: var(--secundaria);
+    opacity: 0.9;
+}
+
+.projetos-card:hover .paragrafo-projetos {
+    color: #ffffff;
     opacity: 0.9;
 }
 
@@ -318,30 +340,7 @@ a:active {
     }
 }
 
-.btn-mostrar-projetos {
-    background: none;
-    border: 1px solid #fff;
-    border-radius: 15px;
-    color: #fff;
-    width: 180px;
-    padding: 20px;
-    font-size: 18px;
-    font-weight: 600;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    margin-top: 35px;
-}
 
-.btn-mostrar-projetos:hover {
-    background-color: #9443d8;
-    transition: 0.3s;
-}
-.btn-mostrar-projetos.remover {
-    display: none;
-}
 
 .container {
     display: flex;
@@ -388,6 +387,65 @@ a:active {
     font-size: 13px;
     text-align: center;
     white-space: nowrap;        
+}
+
+.conjunto-links {
+    display: flex;
+    justify-content: flex-start; 
+    margin-top: 20px; 
+    gap: 6rem; 
+
+}
+
+.ver-projetos, 
+.ver-projetos:visited, 
+.ver-projetos:active {
+    color: #4d7cfe !important; /* Azul original */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.conjunto-links a,
+.conjunto-links a:link,
+.conjunto-links a:visited,
+.conjunto-links a:active {
+    color: #4d7cfe !important; /* Azul original do card */
+    text-decoration: none !important;
+    font-weight: 500;
+    white-space: nowrap;
+    display: inline-block;
+    transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.conjunto-links a:hover,
+.conjunto-links a:visited:hover {
+    color: #38bdf8 !important; /* Seu azul super claro/neon */
+    text-decoration: underline !important;
+}
+
+.btn-mostrar-projetos {
+    background: none;
+    border: 1px solid #fff;
+    border-radius: 15px;
+    color: #fff;
+    width: 180px;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 35px;
+}
+
+.btn-mostrar-projetos:hover {
+    background-color: #9443d8;
+    transition: 0.3s;
+}
+.btn-mostrar-projetos.remover {
+    display: none;
 }
 
 
