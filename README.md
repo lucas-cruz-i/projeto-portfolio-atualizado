@@ -1,6 +1,6 @@
 # 🧩 Meus Projetos no GitHub
 
-Este repositório reúne **todos os projetos** que desenvolvi ao longo do tempo, tanto para estudos quanto para prática profissional. É uma forma de centralizar meu portfólio de desenvolvimento e acompanhar minha evolução como programador.
+Este repositório reúne **todos os projetos** que desenvolvi ao longo do tempo, tanto para estudos quanto para prática profissional. É uma forma de centralizar meu portfólio de desenvolvimento e acompanhar minha evolução como desenvolvedor.
 
 ---
 
@@ -10,12 +10,16 @@ Cada imagem representa um projeto independente, com descrição e linguagens uti
 
 Exemplos de projetos incluídos:
 
+- 🔹 Projetos com conceitos de HTML e CSS
 - 🔹 Landing pages responsivas
+- 🔹 Exercícios de lógica de programação
 - 🔹 Aplicações com JavaScript puro
 - 🔹 Projetos com React
 - 🔹 Consumo de APIs externas
-- 🔹 Exercícios de lógica de programação
-- 🔹 Projetos com conceitos de HTML e CSS
+- 🔹 Projetos com TypeScript
+- 🔹 Projetos utilizando NodeJS
+- 🔹 Aplicações com NextJS
+
 
 ---
 
@@ -26,6 +30,9 @@ Ao longo dos projetos, utilizei tecnologias como:
 - HTML5 / CSS3
 - JavaScript (ES6+)
 - ReactJS
+- NodeJS
+- TypeScript
+- NextJS
 - Git e GitHub
 
 ---
