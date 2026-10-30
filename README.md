@@ -6,7 +6,7 @@ Este repositório reúne **todos os projetos** que desenvolvi ao longo do tempo,
 
 ## 📁 Estrutura do Repositório
 
-Cada imagem representa um projeto independente, com descrição e linguagens utilizadas, além de pussuir o link para o código-fonte.
+Cada imagem representa um projeto independente, com descrição e linguagens utilizadas, além de possuir o link para o código-fonte.
 
 Exemplos de projetos incluídos:
 
